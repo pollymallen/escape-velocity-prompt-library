@@ -1,32 +1,57 @@
-# PM Prompt Library
+# Escape Velocity Prompt Library
 
-A curated collection of AI prompts specifically designed for Product Managers to streamline workflows, enhance productivity, and accelerate product development.
+A curated collection of AI prompts and resources designed for Product Managers and builders in the Escape Velocity program to streamline workflows, enhance productivity, and accelerate AI product development.
 
 ## Overview
 
-This library provides ready-to-use prompts for every stage of the product development lifecycle, from initial ideation to post-launch operations. Each prompt is crafted to help PMs leverage AI tools effectively in their daily work.
+This library provides ready-to-use prompts, platform guides, and build-in-public templates for every stage of building and launching an AI product. Each resource is crafted to help you leverage AI tools effectively throughout your 90-day journey from idea to revenue.
 
 ## Repository Structure
 
 ```
-prompt-library/
+prompts_library/
 ├── README.md
 ├── CONTRIBUTING.md
+├── CLAUDE.md
 └── prompts/
+    ├── build-in-public/           # 12-week build-in-public journey
+    │   ├── week-0-2-insider-scoop/
+    │   ├── week-3-4-behind-the-scenes/
+    │   ├── week-5-6-launch-teaser/
+    │   ├── week-7-8-beta-recruitment/
+    │   ├── week-9-10-problem-solving/
+    │   ├── week-11-final-countdown/
+    │   ├── week-12-launch-day/
+    │   ├── build_in_public_guide.md
+    │   ├── per-platform-considerations.md
+    │   └── anonymous-posts.md
     ├── idea-generation/
     ├── user-research-and-validation/
     ├── product-brief-generation/
     ├── workflow-brainstorming/
     ├── prototyping/
     │   ├── getting-started/
-    │   ├── loveable-dev/
-    │   └── replit/
+    │   ├── github/              # GitHub basics & migrations
+    │   ├── loveable-dev/        # Loveable.dev resources
+    │   └── replit/              # Replit Agent resources
     ├── development/
+    │   └── authentication/      # Auth implementation guides
     ├── deployment/
     └── operations/
 ```
 
 ## Categories
+
+### Build-in-Public (New!)
+Complete 12-week content strategy for building your product in public, with templates for each phase:
+- **Week 0-2: Insider Scoop** - Share research, ask vulnerable questions, discover problems together
+- **Week 3-4: Behind the Scenes** - Progress updates, feature debates, decision dilemmas
+- **Week 5-6: Launch Teaser** - Origin stories, sneak peeks, competitor comparisons
+- **Week 7-8: Beta Recruitment** - Exclusive invites, help requests, social proof building
+- **Week 9-10: Problem Solving** - Beta insights, failure posts, technical deep dives
+- **Week 11: Final Countdown** - Launch date reveals, preparation transparency, thank-you posts
+- **Week 12: Launch Day** - Launch announcements, journey recaps, celebration CTAs
+- **Guides**: Platform-specific considerations, anonymous posting strategies
 
 ### Idea Generation
 Prompts for brainstorming product ideas, features, and solutions to user problems.
@@ -41,13 +66,14 @@ Prompts for creating comprehensive product briefs, PRDs, and specification docum
 Prompts to map out user workflows, customer journeys, and process flows.
 
 ### Prototyping
-Platform-specific prompts for rapid prototyping:
-- **Getting Started**: General prototyping guidance
-- **Loveable.dev**: Prompts optimized for the Loveable development platform
-- **Replit**: Prompts optimized for Replit-based prototyping
+Platform-specific resources and guides for rapid prototyping:
+- **GitHub**: Beginner-friendly guides for version control, connecting Lovable to GitHub, migrating between platforms
+- **Loveable.dev**: Getting started resources for the Loveable development platform
+- **Replit**: Getting started resources for Replit Agent
 
 ### Development
-Prompts for working with development teams, writing technical requirements, and managing the build process.
+Prompts and guides for working with development teams and implementing features:
+- **Authentication**: Platform-specific guides for adding user auth (Replit Auth, etc.)
 
 ### Deployment
 Prompts for launch planning, rollout strategies, and go-to-market activities.
@@ -65,13 +91,20 @@ Prompts for monitoring, analytics, user feedback collection, and continuous impr
 
 ## Getting Started
 
-If you're new to using AI prompts in product management:
+### For Escape Velocity Students
 
-1. Start with the `idea-generation/` folder to explore possibilities
-2. Move to `user-research-and-validation/` to test your ideas
-3. Use `product-brief-generation/` to document your findings
-4. Progress through `prototyping/` to create quick mockups
-5. Continue through development, deployment, and operations phases
+**New to AI tools and prototyping platforms?**
+1. Start with `prototyping/github/` to learn version control basics
+2. Choose your platform: Review `prototyping/loveable-dev/` or `prototyping/replit/` getting started guides
+3. Begin building and sharing: Use `build-in-public/` templates to document your journey from week 0
+
+**Building your product?**
+1. Start with `idea-generation/` to brainstorm and refine your concept
+2. Move to `user-research-and-validation/` to validate with real users
+3. Use `prototyping/` platform guides to build your MVP
+4. Implement features with `development/` guides (authentication, etc.)
+5. Plan your launch with `build-in-public/` content templates
+6. Continue through `deployment/` and `operations/` for post-launch
 
 ## Contributing
 
@@ -101,4 +134,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-Built for PMs, by PMs. Happy prompting!
+Built for Escape Velocity students, by Escape Velocity students. Happy building!

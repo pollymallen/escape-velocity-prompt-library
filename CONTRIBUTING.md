@@ -1,6 +1,6 @@
-# Contributing to PM Prompt Library
+# Contributing to Escape Velocity Prompt Library
 
-Thank you for your interest in contributing to the PM Prompt Library! This guide will help you understand how to submit prompts, improve existing ones, and help grow this resource for the PM community.
+Thank you for your interest in contributing to the Escape Velocity Prompt Library! This guide will help you understand how to submit prompts, resource guides, and other content to help grow this resource for the Escape Velocity community.
 
 ## Table of Contents
 
@@ -16,11 +16,13 @@ Thank you for your interest in contributing to the PM Prompt Library! This guide
 
 There are several ways to contribute:
 
-1. **Submit new prompts** - Share prompts you've found useful
-2. **Improve existing prompts** - Enhance clarity, effectiveness, or coverage
-3. **Report issues** - Flag prompts that need improvement
-4. **Suggest categories** - Propose new organizational structures
-5. **Share use cases** - Document how you've used prompts successfully
+1. **Submit new prompts** - Share prompts you've found useful in your build journey
+2. **Add resource guides** - Curate helpful links and tutorials for platforms or tools
+3. **Improve existing content** - Enhance clarity, effectiveness, or coverage
+4. **Report issues** - Flag content that needs improvement
+5. **Suggest categories** - Propose new organizational structures
+6. **Share use cases** - Document how you've used prompts successfully
+7. **Build-in-public templates** - Contribute social media post templates and strategies
 
 ## Prompt Submission Guidelines
 
@@ -142,6 +144,24 @@ When and why you would use this prompt in your PM workflow.
 
 ## Category-Specific Guidelines
 
+### Resource Guides
+
+If submitting platform guides (GitHub, Lovable, Replit, etc.):
+- Keep resource lists curated (max 12 websites per guide)
+- Organize links into clear categories with descriptions
+- Include "Quick Tips" section for immediate actionable advice
+- Focus on beginner-friendly, high-quality resources
+- Test all links to ensure they work
+
+### Build-in-Public Content
+
+For build-in-public templates:
+- Follow the week-by-week structure
+- Include platform-specific considerations (Twitter, LinkedIn, etc.)
+- Provide customizable variables in [BRACKETS]
+- Show example posts when helpful
+- Consider different tones and approaches
+
 ### Prototyping Prompts
 
 If submitting platform-specific prompts (Loveable, Replit, etc.):
@@ -204,4 +224,4 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 ---
 
-Thank you for helping make this library valuable for the entire PM community!
+Thank you for helping make this library valuable for the entire Escape Velocity community!
