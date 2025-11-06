@@ -11,7 +11,11 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
    - `user-interview-questions.md` - Generate interview questions for validation
    - `persona-development.md` - Create data-driven user personas
    - `assumption-testing.md` - Framework for testing riskiest assumptions
-2. ✅ Fixed .DS_Store gitignore issue (added macOS system files to .gitignore)
+2. ✅ **Created Landing Pages section in Deployment** (3 prompts)
+   - `01-simple-landing-page.md` - Create minimal conversion-focused landing page
+   - `02-ab-testing-variants.md` - Build 3 variants with different messaging for A/B testing
+   - `03-admin-analytics.md` - Track performance metrics across variants
+3. ✅ Fixed .DS_Store gitignore issue (added macOS system files to .gitignore)
 
 ### Previous Session (2025-10-20)
 1. ✅ Added Replit authentication integration guide (`prompts/development/authentication/replit.md`)
@@ -27,6 +31,7 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 **Well-Developed Categories:**
 - ✅ **Build-in-Public** (24 files) - Complete 12-week journey with templates for each phase
 - ✅ **User Research & Validation** (4 prompts) - Social media research, interviews, personas, assumption testing
+- ✅ **Deployment/Landing Pages** (3 prompts) - Simple landing pages, A/B testing, analytics tracking
 - ✅ **Prototyping** (4 guides) - GitHub, Loveable.dev, Replit getting started resources
 - ✅ **Development/Authentication** (1 guide) - Replit Auth integration
 
@@ -34,7 +39,7 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 - ⚠️ **Idea Generation** (1 prompt)
 - ⚠️ **Product Brief Generation** (empty)
 - ⚠️ **Workflow Brainstorming** (empty)
-- ⚠️ **Deployment** (empty)
+- ⚠️ **Deployment** (3 prompts, could expand with more pre-launch content)
 - ⚠️ **Operations** (empty)
 
 ## Strategic Priorities
@@ -53,9 +58,9 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
    - Deployment workflows
 
 ### Medium Priority
-4. **Workflow Brainstorming** - User journey mapping prompts
-5. **Deployment** - Launch checklists and go-to-market prompts
-6. **Operations** - Post-launch monitoring and iteration guides
+3. **Workflow Brainstorming** - User journey mapping prompts
+4. **Deployment** - Expand beyond landing pages (launch checklists, go-to-market prompts)
+5. **Operations** - Post-launch monitoring and iteration guides
 
 ### Low Priority (Nice to Have)
 7. Additional prototyping platforms (Cursor, Bolt.new, etc.)
@@ -93,9 +98,11 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 ## Notes & Decisions
 
 **Session Date: 2025-01-06**
-- Decision: Prioritized User Research & Validation as critical gap
+- Decision: Prioritized User Research & Validation as critical gap (completed 4 prompts)
+- Decision: Added Landing Pages to Deployment category (3-prompt sequence for A/B testing)
 - Format: Kept prompts concise and actionable (simpler than verbose guides)
 - Structure: Each prompt includes examples, tips, and follow-up prompts
+- Pattern: Landing pages prompts work as a sequence (create → test variants → track analytics)
 - Resolved: .DS_Store files now properly gitignored
 
 **Session Date: 2025-10-20**
@@ -109,7 +116,9 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 - ✅ Clear directory structure
 - ✅ Contributing guidelines updated
 - ✅ .DS_Store files properly gitignored
-- ⚠️ 5 PM lifecycle categories still need content
+- ✅ User Research & Validation category established
+- ✅ Landing pages deployment workflow complete
+- ⚠️ 4 PM lifecycle categories still need content (Product Brief, Workflow, Operations, Idea Gen)
 
 ---
 
