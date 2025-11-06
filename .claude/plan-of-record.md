@@ -3,9 +3,17 @@
 ## Project Overview
 Curated collection of AI prompts and resources for Escape Velocity students building AI products. Supports the 90-day journey from idea to revenue with prompts, platform guides, and build-in-public templates.
 
-## Current Status (Updated: 2025-10-20)
+## Current Status (Updated: 2025-01-06)
 
 ### Completed This Session
+1. ✅ **Populated User Research & Validation category** (4 prompts)
+   - `social-media-painpoint-research.md` - Find direct quotes and painpoints from social media
+   - `user-interview-questions.md` - Generate interview questions for validation
+   - `persona-development.md` - Create data-driven user personas
+   - `assumption-testing.md` - Framework for testing riskiest assumptions
+2. ✅ Fixed .DS_Store gitignore issue (added macOS system files to .gitignore)
+
+### Previous Session (2025-10-20)
 1. ✅ Added Replit authentication integration guide (`prompts/development/authentication/replit.md`)
 2. ✅ Added beginner-friendly GitHub getting started guide (`prompts/prototyping/github/getting-started-resources.md`)
 3. ✅ Synced documentation with actual repository state
@@ -18,12 +26,12 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 
 **Well-Developed Categories:**
 - ✅ **Build-in-Public** (24 files) - Complete 12-week journey with templates for each phase
+- ✅ **User Research & Validation** (4 prompts) - Social media research, interviews, personas, assumption testing
 - ✅ **Prototyping** (4 guides) - GitHub, Loveable.dev, Replit getting started resources
 - ✅ **Development/Authentication** (1 guide) - Replit Auth integration
 
 **Minimal Content:**
 - ⚠️ **Idea Generation** (1 prompt)
-- ⚠️ **User Research & Validation** (empty)
 - ⚠️ **Product Brief Generation** (empty)
 - ⚠️ **Workflow Brainstorming** (empty)
 - ⚠️ **Deployment** (empty)
@@ -32,21 +40,17 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 ## Strategic Priorities
 
 ### High Priority (Next Sessions)
-1. **User Research & Validation** - Critical gap for Escape Velocity students validating ideas
-   - User interview question templates
-   - Survey design prompts
-   - Persona development guides
-   - Assumption testing frameworks
+1. **Product Brief Generation** - Help students document their ideas
+   - PRD templates
+   - Feature specification prompts
+   - Technical requirements generators
+   - User story writing prompts
 
 2. **Development Guides** - Expand beyond authentication
    - Database setup guides (Supabase, Replit DB, etc.)
    - API integration prompts
+   - Error handling and debugging prompts
    - Deployment workflows
-
-3. **Product Brief Generation** - Help students document their ideas
-   - PRD templates
-   - Feature specification prompts
-   - Technical requirements generators
 
 ### Medium Priority
 4. **Workflow Brainstorming** - User journey mapping prompts
@@ -88,6 +92,12 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 
 ## Notes & Decisions
 
+**Session Date: 2025-01-06**
+- Decision: Prioritized User Research & Validation as critical gap
+- Format: Kept prompts concise and actionable (simpler than verbose guides)
+- Structure: Each prompt includes examples, tips, and follow-up prompts
+- Resolved: .DS_Store files now properly gitignored
+
 **Session Date: 2025-10-20**
 - Decision: Focus on Escape Velocity branding throughout
 - Standard: Resource guides limited to 12 links maximum (from CLAUDE.md)
@@ -98,10 +108,10 @@ Curated collection of AI prompts and resources for Escape Velocity students buil
 - ✅ Documentation synced with reality
 - ✅ Clear directory structure
 - ✅ Contributing guidelines updated
-- ⚠️ Most PM lifecycle categories need content
-- ⚠️ .DS_Store files should be gitignored
+- ✅ .DS_Store files properly gitignored
+- ⚠️ 5 PM lifecycle categories still need content
 
 ---
 
-**Last Updated:** 2025-10-20
+**Last Updated:** 2025-01-06
 **Next Review:** Next session start

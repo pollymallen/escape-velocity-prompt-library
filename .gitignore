@@ -1,2 +1,6 @@
 # Claude Code local configuration
 CLAUDE.md
+
+# macOS system files
+.DS_Store
+**/.DS_Store
