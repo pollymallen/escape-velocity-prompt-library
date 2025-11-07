@@ -37,6 +37,7 @@ prompts_library/
     ├── development/
     │   └── authentication/      # Auth implementation guides
     ├── deployment/
+    │   └── landing-pages/       # Landing page creation & A/B testing
     └── operations/
 ```
 
@@ -57,7 +58,11 @@ Complete 12-week content strategy for building your product in public, with temp
 Prompts for brainstorming product ideas, features, and solutions to user problems.
 
 ### User Research and Validation
-Prompts to help with user interviews, surveys, persona development, and validating assumptions.
+Prompts to discover painpoints, validate ideas, and understand your customers:
+- **Social Media Painpoint Research**: Find direct quotes from Reddit, Twitter, forums about your ICP's struggles
+- **User Interview Questions**: Generate validation interview questions that uncover real problems
+- **Persona Development**: Build data-driven user personas from your research findings
+- **Assumption Testing**: Framework for testing your riskiest business assumptions
 
 ### Product Brief Generation
 Prompts for creating comprehensive product briefs, PRDs, and specification documents.
@@ -76,7 +81,10 @@ Prompts and guides for working with development teams and implementing features:
 - **Authentication**: Platform-specific guides for adding user auth (Replit Auth, etc.)
 
 ### Deployment
-Prompts for launch planning, rollout strategies, and go-to-market activities.
+Prompts for pre-launch validation and go-to-market activities:
+- **Landing Pages**: Create simple conversion-focused landing pages with pricing tiers and waitlist CTAs
+- **A/B Testing Variants**: Build 3 messaging variants to test different value propositions and audiences
+- **Admin Analytics**: Track views, conversions, CTR, and time-on-page to identify winning messaging
 
 ### Operations
 Prompts for monitoring, analytics, user feedback collection, and continuous improvement.
@@ -99,12 +107,12 @@ Prompts for monitoring, analytics, user feedback collection, and continuous impr
 3. Begin building and sharing: Use `build-in-public/` templates to document your journey from week 0
 
 **Building your product?**
-1. Start with `idea-generation/` to brainstorm and refine your concept
-2. Move to `user-research-and-validation/` to validate with real users
-3. Use `prototyping/` platform guides to build your MVP
-4. Implement features with `development/` guides (authentication, etc.)
-5. Plan your launch with `build-in-public/` content templates
-6. Continue through `deployment/` and `operations/` for post-launch
+1. **Validate your idea**: Use `user-research-and-validation/` to find painpoints, interview users, test assumptions
+2. **Create a landing page**: Use `deployment/landing-pages/` to build and A/B test your value proposition
+3. **Build your MVP**: Use `prototyping/` platform guides (Replit, Loveable) to start building
+4. **Add core features**: Use `development/` guides for authentication and other features
+5. **Build in public**: Use `build-in-public/` templates to document your journey and build audience
+6. **Launch and iterate**: Use `deployment/` for go-to-market and `operations/` for post-launch
 
 ## Contributing
 
