@@ -1,0 +1,2 @@
+Scan this code for any hardcoded API keys or secrets. 
+Show me how to move them to environment variables and update the code to read from environment variables.
