@@ -1,0 +1,2 @@
+Review this code and ensure all database queries are filtered by the authenticated user's ID. 
+Add user authentication checks to all API endpoints. Show me what changes are needed before proceeding.
