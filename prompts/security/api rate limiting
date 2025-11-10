@@ -1,0 +1,2 @@
+Add rate limiting to any API endpoints. 
+Limit each user to 100 requests per hour. Return a 429 error when limit is exceeded.
