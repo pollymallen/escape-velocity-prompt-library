@@ -5,3 +5,7 @@ CLAUDE.md
 # macOS system files
 .DS_Store
 **/.DS_Store
+
+# Node.js
+node_modules/
+package-lock.json

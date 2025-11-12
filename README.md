@@ -6,6 +6,12 @@ A curated collection of AI prompts and resources designed for Product Managers a
 
 This library provides ready-to-use prompts, platform guides, and build-in-public templates for every stage of building and launching an AI product. Each resource is crafted to help you leverage AI tools effectively throughout your 90-day journey from idea to revenue.
 
+## Notion Integration
+
+All prompts automatically sync to Notion on every push to `main`. The folder structure is preserved as nested pages, making it easy to browse and search in your Notion workspace.
+
+**Setup:** See [.github/NOTION_SETUP.md](.github/NOTION_SETUP.md) for configuration instructions.
+
 ## Repository Structure
 
 ```
